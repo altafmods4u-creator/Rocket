@@ -1,0 +1,16 @@
+{
+  "showDialog": true,
+  "appVersionCode": 1,
+  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version. From my channel 𝗔𝗟𝗧𝗔𝗙 𝗠𝗢𝗗𝗦❤️. ",
+  "updateButtonText": "Update",
+  "updateButtonLink": "https://t.me/ALTAFmodschannel",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "EXIT",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
+}
